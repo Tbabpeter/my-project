@@ -1,0 +1,18 @@
+h1{
+   color: blue;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: 60px;
+   background-color: rgb(240, 9, 9);
+   text-align: center;
+}
+.button{
+        padding: 10px 10px;
+        border: blue;
+        fill: brown;
+        text-decoration-color: aliceblue;
+}
+body{
+     background-color: brown;
+     image-orientation: 20deg;
+     background-position-y: center;
+     }
